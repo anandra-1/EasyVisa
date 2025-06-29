@@ -14,7 +14,7 @@ The increasing number of applicants every year calls for a Machine Learning base
 * Facilitate the process of visa approvals.
 * Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
   
-Data Description
+**Data Description**
 The data contains the different attributes of employee and the employer. The detailed data dictionary is given below.
 * case_id: ID of each visa application
 * continent: Information of continent the employee
